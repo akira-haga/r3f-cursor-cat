@@ -11,7 +11,6 @@ A web application featuring a 3D cat model that follows your mouse cursor, built
 ### Prerequisites
 
 - Node.js
-- OpenWeather API Key
 
 ### Installation
 
